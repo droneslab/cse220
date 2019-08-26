@@ -1,4 +1,5 @@
-- title: "Intro day"
+- title: "Introduction"
   filename: intro
-  dirname: 1
+  dirname: lectures
+  date: 8/26/2019
   tldr: "This lecture discusses the syllabus and outlines course expectations for the rest of the semester."
