@@ -1,12 +1,6 @@
 - title: "About"
   href: "/about/"
 
-- title: "Blog"
-  href: "/blog/"
-
-- title: "CV"
-  href: "/cv/"
-
 - title: "Miscellany"
   href: "/miscellany/"
   subcategories:
