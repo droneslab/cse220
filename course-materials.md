@@ -14,6 +14,6 @@ Randal E. Bryant and David R. O'Hallaron. 3rd Edition. [Computer Systems: A Prog
 
 ## Book
 
-Brian W. Kernighan and Dennis M. Ritchie. 2nd Edition. [C Programming Language, 2/E] (https://www.pearson.com/us/higher-education/program/Kernighan-C-Programming-Language-2nd-Edition/PGM54487.html). Prentice Hall.
+Brian W. Kernighan and Dennis M. Ritchie. 2nd Edition. [C Programming Language, 2/E](https://www.pearson.com/us/higher-education/program/Kernighan-C-Programming-Language-2nd-Edition/PGM54487.html). Prentice Hall.
 
 ## Additional Course Materials
