@@ -3,3 +3,9 @@
   dirname: lectures
   date: 8/26/2019
   tldr: "This lecture discusses the syllabus and outlines course expectations for the rest of the semester."
+
+- title: "Introduction To C"
+  filename: intro-to-c
+  dirname: lectures
+  date: 8/28/2019
+  tldr: "Basic machine model, introduction to C."
