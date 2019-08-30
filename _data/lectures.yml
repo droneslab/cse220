@@ -9,3 +9,9 @@
   dirname: lectures
   date: 8/28/2019
   tldr: "Basic machine model, introduction to C."
+
+- title: "Variables, Strings and Loops"
+  filename: variables-strings-loops
+  dirname: lectures
+  date: 8/30/2019
+  tldr: "Basics of C Variables, Strings and Loops."
