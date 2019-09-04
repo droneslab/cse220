@@ -15,3 +15,9 @@
   dirname: lectures
   date: 8/30/2019
   tldr: "Basics of C Variables, Strings and Loops."
+
+- title: "Conditionals and Control Flow"
+  filename: control-flow
+  dirname: lectures
+  date: 9/04/2019
+  tldr: "Basics of C conditionals and control flow."
