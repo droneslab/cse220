@@ -21,3 +21,9 @@
   dirname: lectures
   date: 9/04/2019
   tldr: "Basics of C conditionals and control flow."
+
+- title: "Pointers"
+  filename: pointers
+  dirname: lectures
+  date: 9/06/2019
+  tldr: "C Pointer basics."
