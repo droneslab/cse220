@@ -27,3 +27,9 @@
   dirname: lectures
   date: 9/06/2019
   tldr: "C Pointer basics."
+
+- title: "C Programming Practices"
+  filename: best-practices
+  dirname: lectures
+  date: 9/09/2019
+  tldr: "Best programming practices."
