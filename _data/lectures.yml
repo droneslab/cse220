@@ -33,3 +33,9 @@
   dirname: lectures
   date: 9/09/2019
   tldr: "Best programming practices."
+
+- title: "Tour of Computer Systems"
+  filename: tour
+  dirname: lectures
+  date: 9/11/2019
+  tldr: "Brief introduction to CSE 220 view of Computer systems and why it matters."
