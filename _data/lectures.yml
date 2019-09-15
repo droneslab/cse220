@@ -39,3 +39,9 @@
   dirname: lectures
   date: 9/11/2019
   tldr: "Brief introduction to CSE 220 view of Computer systems and why it matters."
+
+- title: "Dynamic Memory Allocation in C"
+  filename: dma
+  dirname: lectures
+  date: 9/13/2019
+  tldr: "Use of malloc, calloc and free in C. "
