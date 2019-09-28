@@ -58,3 +58,26 @@
   date: 9/18/2019
   tldr: "Bits, Bytes and Integers. "
 
+- title: "Integer Arithmetic"
+  filename: integer-arithmetic
+  dirname: lectures
+  date: 9/20/2019
+  tldr: "Integer encoding and simple arithmetic. "
+
+- title: "Fixed Point Representation"
+  filename: fixed-point
+  dirname: lectures
+  date: 9/23/2019
+  tldr: "Representing rational numbers as fixed point."
+
+- title: "Floating Point"
+  filename: floating-point
+  dirname: lectures
+  date: 9/25/2019
+  tldr: "IEEE 754 floating point representation."
+
+- title: "Alignment, Stride and Packing "
+  filename: alignment
+  dirname: lectures
+  date: 9/27/2019
+  tldr: "Alignment, Stride and Packing "
