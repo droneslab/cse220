@@ -65,7 +65,7 @@
   tldr: "Integer encoding and simple arithmetic. "
 
 - title: "Fixed Point Representation"
-  filename: fixed-point
+  filename: fixedpoint
   dirname: lectures
   date: 9/23/2019
   tldr: "Representing rational numbers as fixed point."
@@ -81,3 +81,16 @@
   dirname: lectures
   date: 9/27/2019
   tldr: "Alignment, Stride and Packing "
+
+- title: "Process Layout - Stack "
+  filename: layout
+  dirname: lectures
+  date: 9/30/2019
+  tldr: "Process layout and working of stack"
+
+- title: "Process Layout - Heap "
+  filename: heap
+  dirname: lectures
+  date: 10/02/2019
+  tldr: "Working of a heap"
+
