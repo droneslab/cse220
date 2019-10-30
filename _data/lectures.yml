@@ -94,3 +94,27 @@
   date: 10/02/2019
   tldr: "Working of a heap"
 
+- title: "Compilers and Toolchains"
+  filename: compiler
+  dirname: lectures
+  date: 10/02/2019
+  tldr: ""
+
+- title: "Compiler Optimizations "
+  filename: compileopt
+  dirname: lectures
+  date: 10/02/2019
+  tldr: ""
+
+- title: "Dynamic Memory Allocation"
+  filename: dma
+  dirname: lectures
+  date: 10/02/2019
+  tldr: ""
+
+- title: "Dynamic Memory Allocation 2"
+  filename: dma2
+  dirname: lectures
+  date: 10/02/2019
+  tldr: ""
+
