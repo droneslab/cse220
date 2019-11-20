@@ -118,3 +118,28 @@
   date: 10/02/2019
   tldr: ""
 
+- title: "Caching"
+  filename: caching
+  dirname: lectures
+  date: 
+  tldr: ""
+
+- title: "Threads"
+  filename: threads
+  dirname: lectures
+  date: 
+  tldr: ""
+
+- title: "Races and Synchronization"
+  filename: races
+  dirname: lectures
+  date: 
+  tldr: ""
+
+- title: "Pthreads and POSIX concurrency"
+  filename: pthreads
+  dirname: lectures
+  date: 
+  tldr: ""
+
+
