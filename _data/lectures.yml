@@ -142,4 +142,16 @@
   date: 
   tldr: ""
 
+- title: "System I/O"
+  filename: io
+  dirname: lectures
+  date: 
+  tldr: ""
+
+- title: "Exceptions"
+  filename: exceptions
+  dirname: lectures
+  date: 
+  tldr: ""
+
 
